@@ -1,0 +1,5 @@
+# Local data and env should not be committed
+data/
+.env
+
+
