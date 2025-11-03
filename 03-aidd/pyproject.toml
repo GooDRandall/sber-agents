@@ -1,0 +1,13 @@
+[project]
+name = "aidd-bot"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+dependencies = [
+	"aiogram>=3.4.0,<4",
+	"openai>=1.51.0",
+]
+
+[tool.uv]
+
+
